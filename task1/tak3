@@ -1,0 +1,8 @@
+let age = 15;
+let ages = {
+    "Max": 15,
+    "Katya": 13,
+    "Oleg": 56
+}
+// function myFunk(a)
+// for(i=0;i)

@@ -1,0 +1,5 @@
+let arr = [50,40,99,300,-13,"hello"]
+
+for(let i=0; i<arr.length; i++){
+    console.log(arr[i])
+}    
